@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "polyvec.h": "c",
+        "poly.h": "c",
+        "params.h": "c"
+    }
+}

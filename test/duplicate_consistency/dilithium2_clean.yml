@@ -1,0 +1,5 @@
+consistency_checks:
+    - source:
+        scheme: dilithium2
+        implementation: mask_optmem
+      files:
